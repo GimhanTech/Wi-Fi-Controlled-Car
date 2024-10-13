@@ -17,5 +17,3 @@ ___</Please follow me/>___
 ⚠ Warning ⚠
 
 Before upload code into board, you change your wi-fi SSID & Password...
-
-(This code you can get your nodemcu IP)
