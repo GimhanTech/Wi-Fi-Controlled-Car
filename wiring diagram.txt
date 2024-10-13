@@ -1,0 +1,10 @@
+nodemcu board = A
+l298n motor driver shield = B
+
+A : D1 --> B : In2
+A : D2 --> B : In1
+A : D3 --> B : In4
+A : D4 --> B : In3
+
+
+Normal power conections
